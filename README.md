@@ -1,0 +1,2 @@
+# killstars
+gamw=e
